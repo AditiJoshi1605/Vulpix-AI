@@ -1,16 +1,14 @@
-<h1><🦊 Vulpix AI</h1>
-<p><i>Your AI Agent Inside the Browser</i></p>
+<h1>🦊 Vulpix AI</h1>
+<p>Your AI Agent Inside the Browser</p>
 
 <p>⚠️ <b>Status:</b> In Development</p>
 
-<hr>
 
 <h2>🚀 Overview</h2>
 <p>
 <b>Vulpix AI</b> is an intelligent browser extension that converts natural language instructions into real actions on live webpages. It enables users to automate tasks directly in their browser without coding or external tools.
 </p>
 
-<hr>
 
 <h2>❗ Problem</h2>
 <ul>
@@ -20,7 +18,6 @@
   <li>Users cannot easily automate repetitive web tasks</li>
 </ul>
 
-<hr>
 
 <h2>💡 Solution</h2>
 <p>Vulpix AI works directly on real webpages as a browser extension, providing:</p>
@@ -31,7 +28,6 @@
   <li>Transparent and controlled automation</li>
 </ul>
 
-<hr>
 
 <h2>⚙️ How It Works</h2>
 <ol>
@@ -42,7 +38,6 @@
   <li>Performs actions like clicking, typing, and scrolling</li>
 </ol>
 
-<hr>
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
@@ -53,14 +48,12 @@
   <li>Armoriq AI</li>
 </ul>
 
-<hr>
 
 <h2>🎯 Vision</h2>
 <p>
 To build an AI system that can safely and intelligently operate the web on behalf of users through intent instead of manual interaction.
 </p>
 
-<hr>
 
 <h2>📌 Note</h2>
 <p>
